@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://[yoursite.com.xo.je]",
+      "destination": "https://freezlike.xo.je",
       "permanent": true
     }
   ]
